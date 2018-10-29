@@ -3,13 +3,12 @@ title: Dependent and Independent Variables
 ---
 ## Dependent and Independent Variables
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/dependent-and-independent-variables/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+A dependent variable is one whose output or reaction depends on another variable, known as an independent variable. 
+The dependent variable is the one of interest in research. 
+The independent variable is not influenced by another variable.
+The dependent variable is influenced.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+For example, perhaps I wish to determine how my kitten's mood (variable 1) is affected by a sudden thunderstorm (variable 2). My kitten's mood is affected by the outside variable of the thunderstorm outside. The thunderstorm is not affected by my kitten's mood. Nor can I affect a change on the weather.
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
 
 
